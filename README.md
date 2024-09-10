@@ -1,6 +1,6 @@
 # Remember It
 
-**Remember It** is a simple, user-friendly to-do list web application built with React. It allows users to create, edit, and manage their daily tasks, helping them stay organized. The application uses static data.
+**Remember It** is a user-friendly to-do list web application built with React. It allows users to create, edit, and manage their daily tasks, helping them stay organized. The application uses static data.
 
 ## Features
 
