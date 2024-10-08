@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-
+import { useState } from 'react';
 
 function ToDoList() {
     const [tasks, setTasks] = useState([{ text: "Task-1 to do",isEditing: false},{text:"Task-2 to do", isEditing: false }]);

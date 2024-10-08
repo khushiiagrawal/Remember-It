@@ -11,8 +11,12 @@ function App() {
     <Header/>
     <ToDoList/>
     <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/><br/><br/>
+    <br/>
     <Footer/>
-
     </>
 
   );
