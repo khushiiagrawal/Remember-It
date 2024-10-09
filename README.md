@@ -22,12 +22,7 @@
    git clone https://github.com/khushiiagrawal/Remember-It.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd Remember-It
-   cd my-to-do-list
-   ```
+2. Navigate to the project directory
 
 3. Install the dependencies:
 
