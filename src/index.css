@@ -14,17 +14,17 @@ body {
 
 html[data-theme="light"] {
   --bg: #f5f5f5; /* Softer white for less strain */
-  --btn-color: #93dbe6; /* Light pastel button color */
+  --btn-color: #ffffff; /* Light pastel button color */
   --btn-text: #f4f5f6; /* White text on buttons */
   --head: #2a4d5b; /* Slightly darker shade for headers */
   --p: #000000; /* Dark gray for text for good contrast */
 }
 
 html[data-theme="dark"] {
-  --bg: #070707; /* Softer dark gray instead of pitch black */
-  --btn-color: #2a4d5b; /* Darker button color */
-  --btn-text: #1c1d1d; /* Light gray text for readability */
-  --head: #93dbe6; /* Lighter blue-green for headers */
+  --bg: #000000; /* Softer dark gray instead of pitch black */
+  --btn-color: #000000; /* Darker button color */
+  --btn-text: #000000; /* Light gray text for readability */
+  --head: #70bdc9; /* Lighter blue-green for headers */
   --p: #d0d0d0; /* Soft light gray for text */
 }
 
@@ -165,7 +165,7 @@ li.task-item.editing {
   flex: 1;
   font-size: 1.6rem;
   padding: 8px;
-  border: 2px solid #007bff;
+  border: 2px solid #4973a0;
   border-radius: 5px;
   outline: none;
   margin-right: 10px;
